@@ -10,6 +10,8 @@
 - [minion-labor-shifts](https://github.com/akshay7802/Google-Foo.bar/blob/master/minion-labor-shifts/solution.py)
 
 ### Level 2
+- [Elevator-Maintenance](https://github.com/akshay7802/Google-Foo.bar/blob/master/Elevator-Maintenance/solution.py)
+
 
 
 
